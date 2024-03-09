@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Francesco, with a rich background in web development and graphic design, I strive to merge creativity with technology to create meaningful and impactful digital experiences.
+Welcome to my GitHub profile! I'm Francesco, with a passion in web development and a rich background in graphic design, I strive to merge creativity with technology to create meaningful and impactful digital experiences.
 
 ## 🌐 Social Links
 
