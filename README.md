@@ -1,8 +1,6 @@
 # Hi there 👋
 
-## Francesco Napoli
-
-Welcome to my GitHub profile! I'm Francesco, a passionate technologist, photographer, fashion enthusiast, art lover, music aficionado, gamer, and travel buff based in La Spezia, Liguria. With a rich background in web development and graphic design, I strive to merge creativity with technology to create meaningful and impactful digital experiences.
+Welcome to my GitHub profile! I'm Francesco, with a rich background in web development and graphic design, I strive to merge creativity with technology to create meaningful and impactful digital experiences.
 
 ## 🌐 Social Links
 
@@ -44,7 +42,7 @@ Beyond my professional life, I have a deep passion for:
 
 ## 🚀 Projects
 
-Here you'll find a collection of projects that I've worked on, showcasing my skills in web development, design, and more. Each project reflects my dedication to learning and growing in the field of technology and digital arts.
+Here you'll find a collection of projects that I've worked on, showcasing my skills in web development, design, and more. Each project reflects my dedication to learning and growing in the field of technology.
 
 ## 📫 Get in Touch
 
