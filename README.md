@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Francesco, with a passion in web development a
 ## 🌐 Social Links
 
 - [LinkedIn](https://www.linkedin.com/in/francesco-napoli/)
-- [Website](https://www.francesco-napoli.it/)
+- [Website](https://www.francesconapoli.net/)
 
 ## 💻 Technologies & Tools
 
